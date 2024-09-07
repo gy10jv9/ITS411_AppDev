@@ -8,6 +8,11 @@
     ],
     "android": {
       "package": "com.anonymous.expo_realm"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "735a9f38-0d91-418b-ab4d-98dc266a7e70"
+      }
     }
   }
 }
