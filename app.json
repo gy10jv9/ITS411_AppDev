@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "expo_realm",
+    "slug": "expo_realm",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.anonymous.expo_realm"
+    }
+  }
+}
