@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "78a296ae-503f-403d-8f59-277a56efb43a"
+      }
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain", 
+      "backgroundColor": "#FFFFFF"
+    },
+    "android": {
+      "package": "com.sdure2pyc6sanq.its411_appdev"
+    }
+  }
+}
