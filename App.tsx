@@ -1,10 +1,20 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { StyleSheet, Text, View, TextInput, Button, FlatList, TouchableOpacity } from 'react-native';
+
 
 type Task = {
 	id: number;
 	title: string;
 };
+
+const TaskSchema = {
+	name: 'Task',
+	properties: {
+		id: 'objectId',
+		title: 'string',
+	},
+	primaryKey: 'id',
+  };
 
 export default function App() {
 	const [tasks, setTasks] = useState<Task[]>([]);
