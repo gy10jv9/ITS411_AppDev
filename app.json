@@ -1,18 +1,12 @@
 {
   "expo": {
-    "name": "expo_realm",
-    "slug": "expo_realm",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "android": {
-      "package": "com.anonymous.expo_realm"
-    },
     "extra": {
       "eas": {
-        "projectId": "735a9f38-0d91-418b-ab4d-98dc266a7e70"
+        "projectId": "57122b1d-097c-4b26-9915-53009b27948d"
       }
+    },
+    "android": {
+      "package": "com.sdure2pyc6sanq.expo_realm"
     }
   }
 }
